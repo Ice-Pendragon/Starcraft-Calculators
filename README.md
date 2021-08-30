@@ -1,2 +1,0 @@
-# Miscellaneous Starcraft Calculators
-
