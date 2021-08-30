@@ -1,2 +1,2 @@
-# Starcraft_Calculators
-Miscellaneous Calculators about SC1
+# Miscellaneous Starcraft Calculators
+
